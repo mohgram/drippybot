@@ -46,4 +46,4 @@ async def on_message(message):
  if message.content.startswith('<@645009678224457740>'):    
      await message.channel.send("Use drip!help to find all the commands!")
  await bot.process_commands(message)
-bot.run('NzAzNTg1OTM0OTEzODMwOTcy.XqWWSw.Kky-2XJ8NvOdgDqZubCNVPZKgf8')
+bot.run('NzAzNTg1OTM0OTEzODMwOTcy.XqWfXA.6IeBLThZvoa1SQlDA-7kiIK-j-A')
